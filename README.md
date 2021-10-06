@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Brykee
+- 👀 I’m interested in Steam Games, Pokemon, Bucket Lists and finding the girl of my dreams.
+- 🌱 I’m currently learning React and JavaScript
+- 💞️ I’m looking to collaborate on an App that turns Binary into Djent
+- 📫 My Email is: drichardson2@harding.edu
